@@ -22,4 +22,4 @@ Everytime you think of quitting remember why you started .
 
 
 If you need to read more go to :
-[github](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[learn more](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
